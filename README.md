@@ -1,7 +1,7 @@
 ## Profile
-💙 박다예 <br>
-💚 1994.07.22 <br>
-📞 010-4615-2639 <br>
+⭐ 이순철 <br>
+⭐ 1998.01.13 <br>
+📞 010-8915-1820 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltpdy0722@gmail.com)](mailto:spiltpdy0722@gmail.com) <span><a href="[https://www.notion.so/3b772d5e640945bcbc6898805aaa0bdf](https://www.notion.so/36c68f5b9842423789d3ddea65e69b87)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
