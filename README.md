@@ -27,5 +27,5 @@ https://quixotic-marigold-971.notion.site/13a11fadf0654de39d5e84f0aaa4912c
 
 <div align=left>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-PureIron&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-peanut&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-PureIron&show_icons=true">
 </div>
