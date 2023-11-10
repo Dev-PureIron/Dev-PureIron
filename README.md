@@ -5,7 +5,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltpdy0722@gmail.com)](mailto:spiltpdy0722@gmail.com) <span><a href="[https://www.notion.so/3b772d5e640945bcbc6898805aaa0bdf](https://www.notion.so/36c68f5b9842423789d3ddea65e69b87)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
-https://quixotic-marigold-971.notion.site/13a11fadf0654de39d5e84f0aaa4912c
+[https://quixotic-marigold-971.notion.site/13a11fadf0654de39d5e84f0aaa4912c](https://www.notion.so/8c9a1e2fee9f4bbc91550f810836e49f)
 
 
 <br>
